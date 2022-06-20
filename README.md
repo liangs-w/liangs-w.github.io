@@ -194,6 +194,9 @@ GOOGLE.COM
     padding:2px;"></div>
     </center>
 
+<img style="border-radius:0.3125em;
+    box-shadow:02px 4px 0rgba(34,36,38,.12),02px 10px 0rgba(34,36,38,.08);" 
+    src="./image/b1.jpg"></img>
 
 fsfdsfsf
 
